@@ -34,7 +34,7 @@ claude mcp add cutroom -- node "<Cutroom install folder>/resources/mcp/cutroom-m
 |---|---|
 | Cutting | import clips, place and trim on the timeline, remove silence and filler words, speed ramps, freeze frames |
 | Captions | word-by-word captions in 90+ languages, 27 styles, right to left for Arabic |
-| Look | colour grade, exposure, curves, LUT-style looks, background removal, chroma key, masks |
+| Look | colour grade, exposure, curves, saved looks and presets, background removal, chroma key, masks |
 | Sound | noise reduction, loudness to -14 LUFS, music ducking under voice, voiceover |
 | Graphics | titles, lower thirds, counters, callouts, transitions, motion paths |
 | Checking | `render_frame`, `watch_pass` and `screenshot` return real frames, so a vision model sees what it made |
